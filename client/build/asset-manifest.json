@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d798ca80.chunk.css",
+    "main.js": "/static/js/main.e9a4c7ae.chunk.js",
+    "main.js.map": "/static/js/main.e9a4c7ae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05b044cc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05b044cc.js.map",
+    "static/css/2.164ba852.chunk.css": "/static/css/2.164ba852.chunk.css",
+    "static/js/2.4922b39a.chunk.js": "/static/js/2.4922b39a.chunk.js",
+    "static/js/2.4922b39a.chunk.js.map": "/static/js/2.4922b39a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f30ca502ca8256e87bc727b5ab1b4c9c.js": "/precache-manifest.f30ca502ca8256e87bc727b5ab1b4c9c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.164ba852.chunk.css.map": "/static/css/2.164ba852.chunk.css.map",
+    "static/css/main.d798ca80.chunk.css.map": "/static/css/main.d798ca80.chunk.css.map",
+    "static/js/2.4922b39a.chunk.js.LICENSE.txt": "/static/js/2.4922b39a.chunk.js.LICENSE.txt",
+    "static/js/main.e9a4c7ae.chunk.js.LICENSE.txt": "/static/js/main.e9a4c7ae.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/static/media/arrow_right.d9ccc77c.svg",
+    "static/media/concert.jpg": "/static/media/concert.809ce4f4.jpg",
+    "static/media/holi.jpg": "/static/media/holi.b74e44c7.jpg",
+    "static/media/App.css": "/static/media/sky-lights.f28bdb32.jpg",
+    "static/media/spinner.gif": "/static/media/spinner.f4404720.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05b044cc.js",
+    "static/css/2.164ba852.chunk.css",
+    "static/js/2.4922b39a.chunk.js",
+    "static/css/main.d798ca80.chunk.css",
+    "static/js/main.e9a4c7ae.chunk.js"
+  ]
+}

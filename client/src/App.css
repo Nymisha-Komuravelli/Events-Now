@@ -1,0 +1,23 @@
+.landing-page{
+    background: white url("./assets/img/sky-lights.jpg") scroll center;
+    background-size: cover;
+    height: 87vh;
+    color: white;
+}
+.wrapper{
+    /* background-color: rgba(0,0,0,0.7); */
+    height: 100%;
+}
+.table tbody tr td{
+    font-weight: 500 !important;
+}
+.active{
+    background-color: darkslategray;
+}
+.card, .card img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.register-link{
+    color: #b30000;
+}
